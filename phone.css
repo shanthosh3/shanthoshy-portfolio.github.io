@@ -1,0 +1,47 @@
+/* navbar */
+
+.navbar ul li{
+    font-size: 1rem;
+}
+
+/* Home */
+#home{
+    height: fit-content;
+}
+#home::before{
+    height: 835px;
+}
+.headings{
+    font-size: 1.3rem;
+}
+
+/* About */
+#about{
+    justify-content: center;
+}
+#about h1{
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+#intro h2{
+    font-size: 1.3rem;
+    margin-bottom: 5px;
+}
+#intro p{
+    font-size: 1rem;
+}
+#para{
+    height: 200px;
+}
+
+/* contact */
+
+.input{
+    width: 70%;
+}
+#msg{
+    width: 70%;
+}
+#send{
+    width: 30%;
+}
